@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rubiacarias
-- 👀 I’m interested in an internship opportunity, in order to improve my knowledge.
-- 🌱 I’m currently finishing my training in UX/UI Design.
-- 💞️ I’m wllingto collaborate completely voluntarily.
+- 💪 Especialista em resolução de problemas
+- 👩‍💻❤️ Apaixonada por tecnologia, UX/UI e desenvolvimento front-end.
 - 📫 How to reach me through my email and my number +351 969 552 810
 
 <!---
